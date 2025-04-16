@@ -1,16 +1,10 @@
-<h1 align="center">Bonjour !</h1>
+<h1 align="center">👋 Bonjour !</h1>
 
 ###
 
-<p align="center">I'm Nicolas, an aspiring Software Engineer from France</p>
+<p align="center">I'm Nicolas, an aspiring Software Engineer from France, currently studying at <a href="https://ensiie.fr">ENSIIE</a>.</p>
 
-###
-
-<div align="center">
-  <a href="https://linkedin.com/in/nicolasjourd1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<p align="center">Lately, I've been working on <a href="https://github.com/nicolasjourd1/jgames">JGames</a>.</p>
 
 ###
 
